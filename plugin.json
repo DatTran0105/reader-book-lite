@@ -1,7 +1,7 @@
 {
   "name": "reader-book-lite",
   "author": "community",
-  "url": "https://github.com/mwolfinspace/reader-book-lite",
+  "url": "https://github.com/DatTran0105/reader-book-lite",
   "version": "1.0.1",
   "minAppVersion": "2.10.14",
   "disabledInPublish": true,
@@ -14,17 +14,20 @@
   "displayName": {
     "default": "Reader Book Lite",
     "en_US": "Reader Book Lite",
-    "zh_CN": "Reader Book Lite"
+    "zh_CN": "Reader Book Lite",
+    "vi_VN": "Reader Book Lite"
   },
   "description": {
     "default": "A streamlined ebook reader supporting PDF/EPUB/MOBI/TXT formats with annotations, bookmarks, and multiple themes",
     "en_US": "A streamlined ebook reader supporting PDF/EPUB/MOBI/TXT formats with annotations, bookmarks, and multiple themes",
-    "zh_CN": "A streamlined ebook reader supporting PDF/EPUB/MOBI/TXT formats with annotations, bookmarks, and multiple themes"
+    "zh_CN": "Trình đọc sách điện tử tinh gọn hỗ trợ PDF/EPUB/MOBI/TXT với chú thích, đánh dấu trang và nhiều chủ đề",
+    "vi_VN": "Trình đọc sách điện tử tinh gọn hỗ trợ PDF/EPUB/MOBI/TXT với chú thích, đánh dấu trang và nhiều chủ đề"
   },
   "readme": {
     "default": "README.md",
     "en_US": "README.md",
-    "zh_CN": "README_zh_CN.md"
+    "zh_CN": "README.md",
+    "vi_VN": "README.md"
   },
   "keywords": [
     "reading", "ebook", 
